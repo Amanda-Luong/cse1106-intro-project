@@ -1,6 +1,6 @@
 
 This is a project
-#Intro to Github
+# Intro to Github
 
 ## Project to get to know how to navigate and use github
 
